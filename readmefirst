@@ -1,0 +1,13 @@
+Please follow below instructions to run the task successfully.
+1. Run the script attached to this project file separately
+1. Update connection string in appsettings.json as per sql server named on your pc
+3. If project does not open up new window or browser after running then please copy and paste this url in the browser: https://localhost:44318/
+4. Username and password fields are not added in user form as these were not asked in the task. Hence, default given user logins will work. 
+
+admin user:
+username: admin@gmail.com
+password: 12345
+
+Normal user account
+username: user@gmail.com
+password: 12345
